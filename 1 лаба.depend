@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1585155331 source:d:\codeblock\lab 1 gaychuk\main.cpp
+	<iostream>
+	"point.h"
+
+1585154840 d:\codeblock\lab 1 gaychuk\point.h
+
+1585154835 source:d:\codeblock\lab 1 gaychuk\point.cpp
+	"point.h"
+	<iostream>
+
+1585227951 source:c:\users\alesya\desktop\3\main.cpp
+	<iostream>
+	"point.h"
+
+1585227909 c:\users\alesya\desktop\3\point.h
+
+1585228151 source:c:\users\alesya\desktop\3\point.cpp
+	"point.h"
+	<iostream>
+
+1585229371 source:c:\users\alesya\desktop\1 лаба\main.cpp
+	<iostream>
+	"point.h"
+
+1585229454 c:\users\alesya\desktop\1 лаба\point.h
+
+1585247139 source:c:\users\alesya\desktop\1 лаба 1 вар\main.cpp
+	<iostream>
+	"point.h"
+
+1585247044 c:\users\alesya\desktop\1 лаба 1 вар\point.h
+
+1585228151 source:c:\users\alesya\desktop\1 лаба 1 вар\point.cpp
+	"point.h"
+	<iostream>
+
